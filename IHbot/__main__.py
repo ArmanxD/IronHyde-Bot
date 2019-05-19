@@ -21,9 +21,9 @@ from IHbot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 Hello {}, my name is {}!
 
-I'm a group manager bot maintained by [this wonderful person](tg://user?id={}). I'm built in python3, using the \
-python-telegram-bot library, and am fully opensource - you can find what makes me tick \
-[here](https://github.com/Yash-Garg/IronHyde-Bot)!
+I'm a group manager bot maintained by [this wonderful person](@Arman_xD). I'm built in python3, using the \
+python-telegram-bot library, and am fully opensource 
+
 
 You can find the list of available commands with /help.
 
@@ -41,7 +41,7 @@ the things I can help you with.
  - /start: start the bot
  - /help: PM's you this message.
  - /help <module name>: PM's you info about that module.
- - /donate: information about how to donate!
+ - /donate: information about how t donate!
  - /settings:
    - in PM: will send you your settings for all supported modules.
    - in a group: will redirect you to pm, with all that chat's settings.
@@ -51,10 +51,10 @@ And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
-It took lots of work for [my creator](t.me/smart_geek) to get me to where I am now, and every donation helps \
-motivate him to make me even better. All the donation money will go to a better VPS to host me, and/or beer \
-(see his bio!). He's just a poor student, so every little helps!
-You can pay my owner through this link ; [PayPal](paypal.me/YGarg917) !!"""
+It took lots of work for [my creator](t.me/Arman_xD) to get me to where I am now, and every donation helps \
+motivate him to make me even better. All the donation money will go to a better VPS to host me !!"""
+
+
 
 IMPORTED = {}
 MIGRATEABLE = []
