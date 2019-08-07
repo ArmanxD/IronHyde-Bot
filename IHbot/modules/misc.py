@@ -45,6 +45,8 @@ F_STRINGS = [
 
 RAPE_STRINGS = (
      "Rape Done Drink The Cum",
+     "OYE NAPUSHAK",
+     "UNDDR SECTION 33 YOU WILL BE BEHIND BARS IF YOU DO RAPE",
      "The user has been successfully raped",
      "Dekho Bhaiyya esa hai! Izzat bachailo apni warna Gaand maar lenge tumhari",
      "Relax your Rear, ders nothing to fear,The Rape train is finally here",
