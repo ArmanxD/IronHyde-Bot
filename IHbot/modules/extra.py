@@ -8,10 +8,16 @@ from IHbot import dispatcher
 from IHbot.modules.disable import DisableAbleCommandHandler
 
 ABUSE_STRINGS = (
+    "TERI MAA KI CHUT",
+    "BABYCHOD",
+    "BETICHOD",
+    "TERI GAAND MEI HATI KA LUND",
     "Fuck off",
+    "CHUTMARIKE",
+    "TERI Gaand mei @Nubman ka lund",
     "Stfu go fuck yourself",
-    "Ur mum gey",
-    "Ur dad lesbo",
+    "Ur mOm gey",
+    "Ur dad lesbian",
     "Bsdk",
     "Nigga",
     "Ur granny tranny",
